@@ -1,0 +1,6 @@
+F:\ProyectoLAB2017\Proyecto3\bin\Debug\Proyecto3.exe.config
+F:\ProyectoLAB2017\Proyecto3\bin\Debug\Proyecto3.exe
+F:\ProyectoLAB2017\Proyecto3\bin\Debug\Proyecto3.pdb
+F:\ProyectoLAB2017\Proyecto3\obj\Debug\Proyecto3.csprojResolveAssemblyReference.cache
+F:\ProyectoLAB2017\Proyecto3\obj\Debug\Proyecto3.exe
+F:\ProyectoLAB2017\Proyecto3\obj\Debug\Proyecto3.pdb
