@@ -1,0 +1,6 @@
+F:\ProyectoLAB2017\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+F:\ProyectoLAB2017\Ejercicio04\obj\Debug\Ejercicio04.csprojResolveAssemblyReference.cache
+F:\ProyectoLAB2017\Ejercicio04\bin\Debug\Ejercicio04.exe
+F:\ProyectoLAB2017\Ejercicio04\bin\Debug\Ejercicio04.pdb
+F:\ProyectoLAB2017\Ejercicio04\obj\Debug\Ejercicio04.exe
+F:\ProyectoLAB2017\Ejercicio04\obj\Debug\Ejercicio04.pdb
